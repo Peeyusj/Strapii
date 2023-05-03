@@ -1,0 +1,22 @@
+.navbar1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2px;   
+    height: 4rem;
+    width: 100%;
+    left: 0px;
+    background: #436073;
+}
+.rights{
+    margin-left: 2rem;
+}
+.lefts{
+    margin-right: 2rem;
+}
+.lefts a{
+text-decoration: none;
+color:white;
+padding: 0px 1rem;
+}
